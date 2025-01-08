@@ -9,4 +9,4 @@ BATCH DURATION - DEC 31ST,2024 TO JAN 31st,2025
 
 MENTOR NAME - NEELA SANTOSH
 
-CIRCUIT DESIGN - 
+CIRCUIT DESIGN AND CODE - https://github.com/arya092004/codtech-task/blob/main/tempreature%20monitoring%20system.png 
