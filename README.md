@@ -1,4 +1,7 @@
 # codtech-task 3 tempreature monitoring system
+
+COMPANY NAME - CODTECH IT SOLUTIONS
+
 NAME - ARYA NEVASE
 
 INTERN ID - CT08GXD
